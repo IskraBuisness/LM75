@@ -23,10 +23,10 @@ Der LM75 ist ein Temperatursensor, der mithilfe des I2C-Kommunikationsprotokolls
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1 | 0 | 0 | 1 | A2 | A1 | A0 | R/W |
 
-![Anschlussplan](./images/pin_konfiguration.png)
+![Anschlussplan[](https://i.imgur.com/0IOlNrt.png)
 
 ## Schaltplan
-![Arduino Uno](./images/arduino_lm75.png)
+![Arduino Uno](https://i.imgur.com/ezvflxb.png)
 
 ## Materialien
 1. Arduino Uno
